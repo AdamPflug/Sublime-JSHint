@@ -1,3 +1,7 @@
+This Plugin is Obselete
+=======================
+This plugin is no longer under active development. I would recommend you look at the excellent [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) instead. It has many more features, supports other languages, is better tested, etc.
+
 Sublime JSHint
 =================
 
